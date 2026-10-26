@@ -1,1 +1,5 @@
+.venv/
 .env
+kakao_code.json
+__pycache__/
+.DS_Store
